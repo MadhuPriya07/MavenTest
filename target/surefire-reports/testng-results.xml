@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="225" started-at="2020-02-22T04:41:07Z" finished-at="2020-02-22T04:41:07Z">
+  <suite name="Suite" duration-ms="46" started-at="2020-02-23T03:17:03Z" finished-at="2020-02-23T03:17:03Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="225" started-at="2020-02-22T04:41:07Z" finished-at="2020-02-22T04:41:07Z">
+    <test name="Test" duration-ms="46" started-at="2020-02-23T03:17:03Z" finished-at="2020-02-23T03:17:03Z">
       <class name="seleniumPackage.LoginInfo">
-        <test-method status="PASS" signature="g()[pri:0, instance:seleniumPackage.LoginInfo@80ec1f8]" name="g" duration-ms="90" started-at="2020-02-22T10:11:07Z" finished-at="2020-02-22T10:11:07Z">
+        <test-method status="PASS" signature="g()[pri:0, instance:seleniumPackage.LoginInfo@80ec1f8]" name="g" duration-ms="22" started-at="2020-02-23T08:47:03Z" finished-at="2020-02-23T08:47:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- g -->
       </class> <!-- seleniumPackage.LoginInfo -->
       <class name="seleniumPackage.Testing">
-        <test-method status="PASS" signature="f()[pri:0, instance:seleniumPackage.Testing@6c3f5566]" name="f" duration-ms="9" started-at="2020-02-22T10:11:07Z" finished-at="2020-02-22T10:11:07Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:seleniumPackage.Testing@6c3f5566]" name="f" duration-ms="0" started-at="2020-02-23T08:47:03Z" finished-at="2020-02-23T08:47:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
